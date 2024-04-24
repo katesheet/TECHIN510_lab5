@@ -11,15 +11,13 @@ streamlit run app.py
 
 ## Deployment Page
 
-https://techin510lab4-ff4fubnuyhu8tglxvpuij9.streamlit.app/
+https://techin510lab5-pf3uqucbwp3x5r3euy47sv.streamlit.app/
 
 ## What I learned
 
-- Interact with Postgres including input data
-- Web scrap using python and Beautifulsoup
-- Html reading 
+- Use Gemini to create an AI bot
+- Write stream output
 
 ## Questions
 
-- If the web page changes, the scrap may cannot be generalized
-- The scraping is so slow to finish difficult tasks
+- How to do multi-round conversation

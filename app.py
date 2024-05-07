@@ -11,16 +11,17 @@ genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 model = genai.GenerativeModel('gemini-pro')
 
 prompt_template = """
-You are an expert at answering job application questions.
+You are an expert at filling up job application answering job application questions.
 
-Please use the information mentioned in resume and job description to answer job application questions.
+Please use the information mentioned in resume and job description to answer a job application question.
 
 Please include the following details:
 - Bullet points
 - put a key word for each point on the beginning
+- Make the wording professional and passionate
 
 my resume is: {resume}
-the jd: {jd}
+the job description: {jd}
 the question: {question}
 """
 

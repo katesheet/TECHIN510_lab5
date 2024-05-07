@@ -21,3 +21,4 @@ https://techin510lab5-pf3uqucbwp3x5r3euy47sv.streamlit.app/
 ## Questions
 
 - How to do multi-round conversation
+- How to control the format of output better
